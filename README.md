@@ -78,7 +78,7 @@ This project was designed to be run in a **Google Colab** environment with GPU a
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/yura4350/GAN-hyperparameter-optimisation-techniques-comparison
 ```
 
 ### 2. Dependencies
